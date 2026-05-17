@@ -1,4 +1,4 @@
-#Number conversion in python
+#Number system conversion in python
 num = 45
 print("Binary:",bin(45))
 print("Octal:",oct(45))
